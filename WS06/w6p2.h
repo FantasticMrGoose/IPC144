@@ -1,13 +1,3 @@
-/*
-	==================================================
-	Workshop #6 (Part-2):
-	==================================================
-	Name   :Ziran Jeffrey Zhou
-	ID     :145117206
-	Email  :zjzhou2@myseneca.ca
-	Section:NNN
-*/
-
 #define MAX_PRODUCT 3
 #define NUM_GRAMS 64
 #define LBS_PER_KG 2.20462
